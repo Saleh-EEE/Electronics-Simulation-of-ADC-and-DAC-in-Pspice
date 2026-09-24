@@ -52,7 +52,8 @@ This project helped in understanding:
 - Comparator behavior under non-ideal conditions
 - Practical simulation workflow in PSpice
 
-git clone https://github.com/Saleh-EEE/Electronics-Simulation-of-ADC-and-DAC-in-PSpice.gitcd Electronics-Simulation-of-ADC-and-DAC-in-PSpice
+git clone https://github.com/Saleh-EEE/Electronics-Simulation-of-ADC-and-DAC-in-PSpice.git
+cd Electronics-Simulation-of-ADC-and-DAC-in-PSpice
 
 ## Software
 
